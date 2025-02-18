@@ -1,16 +1,9 @@
 # coffie_decorator
 
-A new Flutter project.
+Приложение для заказа кофе. Спроектировано с помощью паттерна декоратор.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/cb3b53f6-8010-446f-8139-6d2388b353b7
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
